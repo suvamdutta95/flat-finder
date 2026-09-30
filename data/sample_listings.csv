@@ -1,0 +1,9 @@
+title,locality,city,purpose,property_type,bhk,area_sqft,price_inr,furnishing,parking,lift,posted_at,source,url
+"Sunny 2BHK near Metro",Salt Lake,Kolkata,Rent,Apartment,2,950,28000,Semi-Furnished,True,True,2026-09-30T07:30:00Z,Demo Data,https://example.com/listing/101
+"Modern 3BHK with Balcony",New Town,Kolkata,Rent,Apartment,3,1450,42000,Fully Furnished,True,True,2026-09-29T12:15:00Z,Demo Data,https://example.com/listing/102
+"Compact 1BHK for Working Professional",Garia,Kolkata,Rent,Apartment,1,620,16000,Fully Furnished,False,True,2026-09-28T08:00:00Z,Demo Data,https://example.com/listing/103
+"Family 2BHK in Behala",Behala,Kolkata,Rent,Apartment,2,880,21000,Unfurnished,True,True,2026-09-25T14:40:00Z,Demo Data,https://example.com/listing/104
+"Spacious 3BHK Apartment",Rajarhat,Kolkata,Buy,Apartment,3,1650,9800000,Semi-Furnished,True,True,2026-09-22T09:10:00Z,Demo Data,https://example.com/listing/105
+"Affordable 2BHK Starter Home",Jadavpur,Kolkata,Buy,Apartment,2,810,6200000,Unfurnished,False,True,2026-09-20T10:00:00Z,Demo Data,https://example.com/listing/106
+"Premium 4BHK Sky Apartment",EM Bypass,Kolkata,Buy,Apartment,4,2400,18500000,Fully Furnished,True,True,2026-09-18T15:20:00Z,Demo Data,https://example.com/listing/107
+"Quiet 2BHK near Lake Gardens",Lake Gardens,Kolkata,Rent,Apartment,2,900,25000,Semi-Furnished,False,True,2026-09-15T13:00:00Z,Demo Data,https://example.com/listing/108
